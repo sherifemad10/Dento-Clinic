@@ -27,11 +27,11 @@ Dento provides a streamlined, comfortable experience for booking medical consult
 
 ![Screenshot 2024-10-27 165036](https://github.com/user-attachments/assets/14dbad05-0af1-488c-af42-6130f378cea2)
 
-![screencapture-dento-clinic-vercel-app-doctor-2-2024-10-27-17_05_37](https://github.com/user-attachments/assets/94802c55-ac46-49ee-adf4-736ed91c20db)
-
 ![Screenshot 2024-10-27 165053](https://github.com/user-attachments/assets/e27cf996-f9ff-47a2-8446-2efcf91e222d)
 
-![screencapture-dento-clinic-vercel-app-doctor-2-2024-10-27-17_05_37](https://github.com/user-attachments/assets/da0d9e33-450f-4a3e-8faa-a62cc3c1fd57)
+![screencapture-dento-clinic-vercel-app-doctor-2-2024-10-27-17_05_37](https://github.com/user-attachments/assets/94802c55-ac46-49ee-adf4-736ed91c20db)
+
+
 
 
 
