@@ -1,17 +1,17 @@
-##Dento
+# Dento
 
 ![Screenshot 2024-10-27 164857](https://github.com/user-attachments/assets/08b93ad4-865c-4dc2-82ba-ac8f507c79dc)
 
 
-#Overview
+# Overview
 Dento was created to address the issue of long waiting times at dental centers. With Dento, you can easily book your examination appointments from the comfort of your own space, avoiding the hassle of waiting for extended periods.
 
-#Features
+# Features
 - Simple Appointment Booking: Select the doctor of your choice and set the most convenient appointment time.
 - Direct Confirmation: Your booking details are sent directly to the center via WhatsApp for quick confirmation.
 -Reduced Waiting Times: You will be contacted when your turn is approaching, helping to minimize waiting time inside the center.
 
-#Benefits
+# Benefits
 Dento provides a streamlined, comfortable experience for booking medical consultations from start to finish. Avoid lengthy waits and enjoy a smooth, easy-to-use appointment system tailored for your convenience.
 
 
