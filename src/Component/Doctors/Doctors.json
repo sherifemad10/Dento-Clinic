@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "email": "john@gmail.com",
+    "phone": "123-456-7890",
+    "specialty": "Oral and Maxillofacial surgery",
+    "experience": 10,
+    "day": ["Saturday", "Thursday"],
+    "reviews": [
+      {
+        "id": 1,
+        "name": "sherif emad",
+        "comment": "Great doctor!",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "sara mohammed",
+        "comment": "I had an appointment with him and he was very helpful.",
+        "rating": 4.5
+      }
+    ],
+    "summery": "Dr. Jon is a highly skilled Oral and Maxillofacial Surgeon with over 10 years of experience in his field. He holds a Doctorate from the prestigious Harvard University, where he honed his expertise in advanced surgical techniques. His deep commitment to his profession is reflected in both his clinical practice and his contributions to academic research."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane Smith",
+    "email": "jane@gmailcom",
+    "phone": "123-456-7890",
+    "specialty": "Dental Implants",
+    "experience": 5,
+    "day": ["Sunday", "Wednesday"],
+    "reviews": [
+      {
+        "id": 1,
+        "name": "mohammed emad",
+        "comment": "Great doctor!",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "Manner Sobhy",
+        "comment": "I had an appointment with him and he was very helpful.",
+        "rating": 4
+      }
+    ],
+    "summery": "Dr. Jane Smith is a highly skilled Cardiologist with over 5 years of experience in her field. She holds a Doctorate from the prestigious Harvard University, where she honed her expertise in advanced Dental Implants. Her deep commitment to her profession is reflected in both her clinical practice and her contributions to academic research."
+  },
+  {
+    "id": 3,
+    "name": "Dr.Emma Johnson",
+    "email": "emma@gmailcom",
+    "phone": "123-456-7890",
+    "specialty": "Pediatric Dentistry",
+    "experience": 3,
+    "day": ["Monday", "Thursday"],
+    "reviews": [
+      {
+        "id": 1,
+        "name": "sahed ali",
+        "comment": "Great doctor!",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "ahamed sobhy",
+        "comment": "I had an appointment with him and he was very helpful.",
+        "rating": 4
+      }
+    ],
+    "summery": "Dr.Emma graduated from dental school in 2010 from the University of Nebraska College of Dentistry. She then completed a general practice residency at Peninsula Hospital in Queens, NY in 2011. From there she moved to Chicago to do her two years of pediatric dental residency at Lurie Children’s Hospital of Chicago."
+  },
+  {
+    "id": 4,
+    "name": "Dr.Alexa C. Rosenau",
+    "email": "alexa@gmailcom",
+    "phone": "123-456-7890",
+    "specialty": "Oral and Maxillofacial surgery",
+    "experience": 7,
+    "day": ["Monday", "Thursday"],
+    "reviews": [
+      {
+        "id": 1,
+        "name": "marry jon",
+        "comment": "Great doctor!",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "name": "jenny jon",
+        "comment": "I had an appointment with him and he was very helpful.",
+        "rating": 4
+      }
+    ],
+    "summery": "Dr. Alexa C. Rosenau is a highly skilled Oral and Maxillofacial Surgeon with over 7 years of experience in his field. He holds a Doctorate from the prestigious Harvard University, where he honed his expertise in advanced surgical techniques. His deep commitment to his profession is reflected in both his clinical practice and his contributions to academic research."
+  }
+]
